@@ -1,8 +1,10 @@
-# Jetpack Compose Desktop Themes 🎨
+# Find themes at [Compose Libraries](https://composelibraries.com/)
 
-**ARCHIVED**: You can find Design Systems and themes at https://composelibraries.com/
+**ARCHIVED**: You can find an up-to-date list of Design Systems and themes at https://composelibraries.com
 
 ---
+
+# Jetpack Compose Desktop Themes 🎨
 
 A curated list of Jetpack Compose Desktop themes to make your app shine ✨.
 
